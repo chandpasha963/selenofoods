@@ -1,0 +1,58 @@
+head{
+	color:white;
+}
+body{
+	margin:30px
+	
+}
+body{
+	border:5px solid black;
+	background:powderblue;
+}
+header {
+ 	color:red;
+	font-weight: bolder;
+	background:white;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	
+}
+hr{
+	color: blue;
+	height: 10px
+}
+
+h2 {
+	color: purple;
+	background: yellow;
+	
+}
+.images{
+	border: 2px solid red;
+	background:white;
+	padding:13px
+	
+}
+.bootstrap{
+	background:white;
+}
+
+}
+footer {
+	color: green;
+}
+#loreum{
+	background:white;
+	border: 3px inset red;
+	padding:13px 23px;
+	color:green;
+	font-style: itallic;
+
+}
+
+big{
+	border:2px solid red;
+}
